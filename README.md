@@ -52,3 +52,5 @@ https://learn.microsoft.com/en-us/office/vba/api/excel.range.autofit
 
 #VBA Paste
 https://www.wallstreetmojo.com/vba-paste/
+
+Studied with both classmates: Shelonta Gilbert and Max Cintra
